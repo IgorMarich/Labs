@@ -1,0 +1,5 @@
+﻿  Lada2.2 C++.cpp
+C:\Users\Lenovo\source\repos\Laba2 C++\Lada2.2 C++\Lada2.2 C++.cpp(111,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\Laba2 C++\Lada2.2 C++\Lada2.2 C++.cpp(135,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Lenovo\source\repos\Laba2 C++\Lada2.2 C++\Lada2.2 C++.cpp(137,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Lada2.2 C++.vcxproj -> C:\Users\Lenovo\source\repos\Laba2 C++\x64\Debug\Lada2.2 C++.exe
