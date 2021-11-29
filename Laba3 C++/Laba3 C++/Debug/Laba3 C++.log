@@ -1,0 +1,17 @@
+﻿  CustomExpressionEvaluator.cpp
+C:\Users\Lenovo\source\repos\Laba3 C++\Laba3 C++\CustomExpressionEvaluator.cpp(8,26): warning C4018: <: несоответствие типов со знаком и без знака
+  ExpressionEvaluator.cpp
+C:\Users\Lenovo\source\repos\Laba3 C++\Laba3 C++\ExpressionEvaluator.cpp(17,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\source\repos\Laba3 C++\Laba3 C++\ExpressionEvaluator.cpp(30,10): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\source\repos\Laba3 C++\Laba3 C++\ExpressionEvaluator.cpp(37,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\source\repos\Laba3 C++\Laba3 C++\ExpressionEvaluator.cpp(40,8): warning C4018: >: несоответствие типов со знаком и без знака
+  Laba3 C++.cpp
+C:\Users\Lenovo\source\repos\Laba3 C++\Laba3 C++\CustomExpressionEvaluator.cpp(8,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\source\repos\Laba3 C++\Laba3 C++\Summator.cpp(9,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\source\repos\Laba3 C++\Laba3 C++\Subtractor.cpp(8,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Subtractor.cpp
+C:\Users\Lenovo\source\repos\Laba3 C++\Laba3 C++\Subtractor.cpp(8,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Summator.cpp
+C:\Users\Lenovo\source\repos\Laba3 C++\Laba3 C++\Summator.cpp(9,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Laba3 C++.vcxproj -> C:\Users\Lenovo\source\repos\Laba3 C++\Debug\Laba3 C++.exe
